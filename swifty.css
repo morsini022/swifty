@@ -1019,8 +1019,12 @@
     }
 }
 
-#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact {
+#helpjuice-widget-contact{
     display: none;
+}
+
+#helpjuice-widget #helpjuice-widget-expanded {
+    display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
