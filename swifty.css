@@ -1023,6 +1023,13 @@
     display: none;
 }
 
+#helpjuice-widget-contact a {
+    display: none;
+}
+#helpjuice-widget-contact a:hover {
+    display: none;
+}
+
 #helpjuice-widget #helpjuice-widget-expanded {
     display: flex;
     justify-content: space-between;
@@ -1036,7 +1043,7 @@
     border-top: 1px solid #e3e5e9
 }
 
-#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact a {
+#helpjuice-widget #helpjuice-widget-expanded a {
     padding: 0;
     text-decoration: none;
     background: #fff;
@@ -1046,7 +1053,7 @@
     border: none
 }
 
-#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact a:hover {
+#helpjuice-widget #helpjuice-widget-expanded a:hover {
     text-decoration: underline
 }
 
