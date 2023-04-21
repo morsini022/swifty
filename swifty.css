@@ -1,0 +1,1063 @@
+#helpjuiuce-widget h1 {
+    font-size: 2em;
+    margin: .67em 0
+}
+
+#helpjuiuce-widget hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible
+}
+
+#helpjuiuce-widget pre {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+#helpjuiuce-widget a {
+    background-color: transparent
+}
+
+#helpjuiuce-widget abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted
+}
+
+#helpjuiuce-widget b,
+#helpjuiuce-widget strong {
+    font-weight: bolder
+}
+
+#helpjuiuce-widget code,
+#helpjuiuce-widget kbd,
+#helpjuiuce-widget samp {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+#helpjuiuce-widget small {
+    font-size: 80%
+}
+
+#helpjuiuce-widget sub,
+#helpjuiuce-widget sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+#helpjuiuce-widget sub {
+    bottom: -.25em
+}
+
+#helpjuiuce-widget sup {
+    top: -.5em
+}
+
+#helpjuiuce-widget img {
+    border-style: none
+}
+
+#helpjuiuce-widget button,
+#helpjuiuce-widget input,
+#helpjuiuce-widget optgroup,
+#helpjuiuce-widget select,
+#helpjuiuce-widget textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0
+}
+
+#helpjuice-widget button,
+#helpjuice-widget input {
+    overflow: visible
+}
+
+#helpjuice-widget button,
+#helpjuice-widget select {
+    text-transform: none
+}
+
+#helpjuice-widget [type=button],
+#helpjuice-widget [type=reset],
+#helpjuice-widget [type=submit],
+#helpjuice-widget button {
+    -webkit-appearance: button
+}
+
+#helpjuice-widget [type=button]::-moz-focus-inner,
+#helpjuice-widget [type=reset]::-moz-focus-inner,
+#helpjuice-widget [type=submit]::-moz-focus-inner,
+#helpjuice-widget button::-moz-focus-inner {
+    border-style: none;
+    padding: 0
+}
+
+#helpjuice-widget [type=button]:-moz-focusring,
+#helpjuice-widget [type=reset]:-moz-focusring,
+#helpjuice-widget [type=submit]:-moz-focusring,
+#helpjuice-widget button:-moz-focusring {
+    outline: 1px dotted ButtonText
+}
+
+#helpjuice-widget fieldset {
+    padding: .35em .75em .625em
+}
+
+#helpjuice-widget legend {
+    box-sizing: border-box;
+    color: inherit;
+    display: table;
+    max-width: 100%;
+    padding: 0;
+    white-space: normal
+}
+
+#helpjuice-widget progress {
+    vertical-align: baseline
+}
+
+#helpjuice-widget textarea {
+    overflow: auto
+}
+
+#helpjuice-widget [type=checkbox],
+#helpjuice-widget [type=radio] {
+    box-sizing: border-box;
+    padding: 0
+}
+
+#helpjuice-widget [type=number]::-webkit-inner-spin-button,
+#helpjuice-widget [type=number]::-webkit-outer-spin-button {
+    height: auto
+}
+
+#helpjuice-widget [type=search] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px
+}
+
+#helpjuice-widget [type=search]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+#helpjuice-widget ::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    font: inherit
+}
+
+#helpjuice-widget details {
+    display: block
+}
+
+#helpjuice-widget summary {
+    display: list-item
+}
+
+#helpjuice-widget template {
+    display: none
+}
+
+#helpjuice-widget [hidden] {
+    display: none
+}
+
+#helpjuice-widget {
+    font-size: 16px;
+    font-family: Helvetica, Arial, Lucida Grande, sans-serif;
+    font-weight: 400
+}
+
+#helpjuice-widget * {
+    box-sizing: border-box
+}
+
+#helpjuice-widget table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+#helpjuice-widget.chat-active {
+    z-index: 9999 !important
+}
+
+#helpjuice-widget a#helpjuice-widget-trigger {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 6px rgba(87, 102, 187, .2) !important;
+    border-radius: 50% !important;
+    width: 60px !important;
+    height: 60px !important;
+    position: absolute !important;
+    background: #0560fc
+}
+
+#helpjuice-widget {
+    position: fixed !important;
+    bottom: 80px !important;
+    z-index: 21474830030 !important;
+    color: #2f2f2f
+}
+
+#helpjuice-widget li {
+    font-size: 14px
+}
+
+#helpjuice-widget.bottomRight,
+#helpjuice-widget.topRight {
+    right: 80px !important
+}
+
+#helpjuice-widget.bottomLeft,
+#helpjuice-widget.topLeft {
+    left: 20px !important
+}
+
+#helpjuice-widget.topLeft,
+#helpjuice-widget.topRight {
+    top: 20px !important
+}
+
+#helpjuice-widget #helpjuice-widget-expanded {
+    display: none !important;
+    background: #fff !important;
+    box-shadow: 0 0 12px rgba(87, 102, 187, .2) !important;
+    border-radius: 8px !important;
+    position: absolute !important;
+    bottom: 20px !important;
+    width: 380px !important;
+    height: 620px !important;
+    padding: 0 !important
+}
+
+#helpjuice-widget #helpjuice-widget-expanded:after {
+    content: "" !important;
+    position: absolute !important;
+    width: 0 !important;
+    height: 0 !important;
+    bottom: -14px !important;
+    right: 23px !important;
+    box-sizing: border-box !important;
+    border-color: transparent transparent #fff #fff !important;
+    border-style: solid !important;
+    border-width: 8px !important;
+    transform-origin: 0 0 !important;
+    transform: rotate(-45deg) !important;
+    box-shadow: -4px 3px 5px 0 rgba(0, 0, 0, .1) !important
+}
+
+#helpjuice-widget.bottomRight #helpjuice-widget-expanded {
+    right: -60px !important
+}
+
+#helpjuice-widget.bottomRight #helpjuice-widget-expanded:after {
+    right: 26px !important
+}
+
+#helpjuice-widget.bottomLeft #helpjuice-widget-expanded {
+    left: 0
+}
+
+#helpjuice-widget.bottomLeft #helpjuice-widget-expanded:after {
+    left: 20px
+}
+
+#helpjuice-widget.topLeft #helpjuice-widget-expanded {
+    top: 80px;
+    left: 0
+}
+
+#helpjuice-widget.topLeft #helpjuice-widget-expanded:after,
+#helpjuice-widget.topRight #helpjuice-widget-expanded:after {
+    content: none !important
+}
+
+#helpjuice-widget.topRight #helpjuice-widget-expanded {
+    top: 80px;
+    right: -60px
+}
+
+#helpjuice-widget #helpjuice-widget-expanded.hj-shown {
+    display: block !important
+}
+
+#helpjuice-widget #helpjuice-widget-header {
+    position: relative;
+    background: #0560fc;
+    padding: 10px;
+    box-shadow: 0 4px 10px rgba(87, 102, 187, .05);
+    border-radius: 8px 8px 0 0
+}
+
+#helpjuice-widget #helpjuice-widget-header svg {
+    position: absolute;
+    z-index: 999;
+    top: 22px;
+    left: 18px;
+    width: 16px;
+    display: inline-block;
+    color: #e2f2ff;
+    opacity: .7
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-header input#helpjuice-widget-search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: transparent;
+    width: 100%;
+    padding: 0 16px 0 40px;
+    color: #e2f2ff;
+    height: 40px;
+    transition: .3s ease-in-out;
+    border-radius: 0
+}
+
+#helpjuice-widget ::-webkit-input-placeholder {
+    color: #e2f2ff;
+    opacity: .7;
+    font-weight: 600
+}
+
+#helpjuice-widget ::-moz-placeholder {
+    color: #e2f2ff;
+    opacity: .7;
+    font-weight: 600
+}
+
+#helpjuice-widget :-ms-input-placeholder {
+    color: #e2f2ff;
+    opacity: .7;
+    font-weight: 600
+}
+
+#helpjuice-widget :-moz-placeholder {
+    color: #e2f2ff;
+    opacity: .7;
+    font-weight: 600
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-header input#helpjuice-widget-search:focus {
+    outline: 0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content {
+    background: #fff;
+    position: absolute;
+    top: 60px;
+    width: 100%;
+    height: calc(100% - 60px);
+    z-index: 99999;
+    padding: 0 0 20px 20px;
+    display: none;
+    border-radius: 8px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content.active {
+    display: block
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header {
+    padding: 20px 0 0;
+    margin-bottom: 10px;
+    width: 325px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #414141
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header button {
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    color: rgba(0, 0, 0, .6);
+    transition: .3s ease;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    border-radius: 50%;
+    opacity: 1;
+    border: none;
+    cursor: pointer
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header button svg {
+    width: 16px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header button:hover {
+    background: #f3f5f8;
+    color: rgba(0, 0, 0, .87)
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header p {
+    margin: 0 0 5px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header .article-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header .article-info p {
+    font-size: 12px;
+    color: #949494;
+    display: flex;
+    align-items: center
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header .article-info .reading-time {
+    display: flex;
+    align-items: center
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .header .article-info svg {
+    width: 12px;
+    margin-right: 5px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content p {
+    color: #414141;
+    word-break: break-word;
+    font-size: 14px;
+    margin: 10px 0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content img {
+    max-width: 100% !important
+}
+
+#helpjuice-widget #helpjuice-widget-article-content ol,
+#helpjuice-widget #helpjuice-widget-article-content ul {
+    padding-left: 16px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content>.content {
+    overflow-y: auto;
+    height: 500px
+}
+
+#helpjuice-widget-article-content #article-content-body {
+    padding-right: 20px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer {
+    position: relative;
+    height: 60px;
+    background: #fff;
+    border-top: 1px solid #e3e5e9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: calc(100% + 20px);
+    margin-left: -20px;
+    padding: 0 20px;
+    border-radius: 0 0 8px 8px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer:before {
+    content: "";
+    width: 100%;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: -51px;
+    background: linear-gradient(0deg, #fff, hsla(0, 0%, 100%, 0));
+    z-index: 99999
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer .feedback-response {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px;
+    display: none;
+    border-radius: 0 0 8px 8px;
+    color: #414141;
+    z-index: 999999999;
+    text-align: center
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer .feedback-response.thumbs-down {
+    height: 120px;
+    top: -60px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer .feedback-response.thumbs-down a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 400;
+    color: #0560fc;
+    border: 1px solid #0560fc;
+    width: 150px;
+    height: 36px;
+    background: #fff;
+    border-radius: 4px;
+    transition: .3s ease;
+    margin: 0 auto 16px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer .feedback-response.thumbs-down a:hover {
+    background: #0560fc;
+    color: #fff
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer p {
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #414141
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer a {
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    margin: 0 5px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer a svg {
+    width: 30px;
+    transition: .3s ease;
+    color: #c6ccd0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer a svg:hover {
+    transform: scale(1.3)
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer a.yes svg:hover {
+    color: #4bb543
+}
+
+#helpjuice-widget #helpjuice-widget-article-content footer a.no svg:hover {
+    color: #f25555
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-table-of-contents {
+    display: none
+}
+
+#helpjuice-widget .hj-alert-block {
+    margin-bottom: 16px
+}
+
+#helpjuice-widget .hj-alert-block .alert-message {
+    padding: 16px
+}
+
+#helpjuice-widget .hj-alert-block.hj-info-block {
+    border-left: 5px solid #2196f3;
+    background: #daf1f8
+}
+
+#helpjuice-widget .hj-alert-block.hj-info-block * {
+    color: #3e729f
+}
+
+#helpjuice-widget .hj-alert-block.hj-warning-block {
+    border-left: 5px solid #ff9800;
+    background: #f8d9ac
+}
+
+#helpjuice-widget .hj-alert-block.hj-warning-block * {
+    color: #8a6d3c
+}
+
+#helpjuice-widget .hj-alert-block.hj-success-block {
+    border-left: 5px solid #4caf50;
+    background: #c7e6c7
+}
+
+#helpjuice-widget .hj-alert-block.hj-success-block * {
+    color: #4a7d61
+}
+
+#helpjuice-widget .hj-alert-block.hj-error-block {
+    border-left: 5px solid #f44336;
+    background: #f4cecd
+}
+
+#helpjuice-widget .hj-alert-block.hj-error-block * {
+    color: #a4474f
+}
+
+#helpjuice-widget #helpjuice-widget-article-content h1,
+#helpjuice-widget #helpjuice-widget-article-content h2,
+#helpjuice-widget #helpjuice-widget-article-content h3,
+#helpjuice-widget #helpjuice-widget-article-content h4 {
+    color: #2f2f2f
+}
+
+#helpjuice-widget #helpjuice-widget-article-content h1 {
+    font-size: 26px;
+    margin-bottom: 16px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content h2 {
+    font-size: 22px;
+    margin-bottom: 16px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content h3 {
+    font-size: 18px;
+    margin-bottom: 10px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content h4 {
+    font-size: 16px;
+    margin-bottom: 10px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content a {
+    font-size: 14px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content .responsive-table {
+    overflow-x: auto;
+    margin: 20px 0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content table th {
+    background: #f9f9fb
+}
+
+#helpjuice-widget #helpjuice-widget-article-content table td,
+#helpjuice-widget #helpjuice-widget-article-content table th {
+    border: 1px solid #dadae7;
+    padding: 10px;
+    text-align: left
+}
+
+#helpjuice-widget #helpjuice-widget-article-content pre {
+    display: block;
+    padding: 10px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.4;
+    word-break: break-all;
+    color: #2f2f2f;
+    background-color: #f9f9fb;
+    border: 1px solid #dadae7;
+    border-radius: 4px;
+    white-space: pre-wrap
+}
+
+#helpjuice-widget video {
+    width: 100% !important;
+    height: auto !important
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container {
+    position: relative;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px 0;
+    min-height: 170px;
+    background: #fff;
+    border: 1px solid #e3e5e9
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .back {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 999;
+    width: 37px;
+    height: 37px;
+    border: 1px solid #e3e5e9;
+    border-radius: 50%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    background: #fff;
+    transition: .3s ease
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .back i {
+    color: #2f2f2f
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .back:hover {
+    background: #e3e5e9
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container h1,
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container h2,
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container h3,
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container h4,
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container img,
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container p,
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container ul {
+    text-align: left
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container h3 {
+    margin-top: 0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .hj-dt-tabs {
+    margin: 10px 0 !important;
+    border: none;
+    padding: 0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .hj-dt-tabs>ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 10px 0 0
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .hj-dt-tabs>ul li:not(.add-dt-tab) {
+    display: block !important;
+    list-style-type: none;
+    flex: 0 1 100%;
+    margin: 3px 0;
+    background: #fff !important
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .hj-dt-tabs .dt-tab {
+    padding: 10px 30px;
+    background: #fff;
+    border: 1px solid #dadae7;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #2f2f2f;
+    cursor: pointer;
+    transition: .3s ease
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .hj-dt-tabs .dt-tab:hover {
+    background: #e3e5e9;
+    color: #0560fc
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .hj-dt-container .hj-dt-tabs .dt-tab .response {
+    color: #2f2f2f !important;
+    margin: 0 !important
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .dt-tab-content {
+    display: none
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .dt-tab-content.active-content {
+    display: block
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel {
+    position: relative;
+    border: 1px solid #dadae7;
+    border-radius: 5px;
+    margin-bottom: 1px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel:after {
+    content: "+";
+    position: absolute;
+    top: 16px;
+    right: 10px;
+    z-index: 999;
+    font-size: 16px;
+    font-weight: 700;
+    color: #2f2f2f;
+    display: inline-block
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel.active:after {
+    content: "-"
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel.active .panel-title {
+    background: #fafaf9;
+    color: #0560fc
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel .panel-title {
+    position: relative;
+    padding: 16px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    color: #2f2f2f;
+    background: #fff;
+    transition: .3s ease;
+    border-radius: 5px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel .panel-content {
+    display: none;
+    padding: 16px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-accordion-panel.active .panel-content {
+    display: block
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-tabs .tab-bar {
+    display: flex;
+    overflow-x: hidden
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-tabs .tab-bar .tab-title {
+    border: 1px solid #dadae7;
+    border-radius: 5px;
+    color: #2f2f2f;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 12px 24px;
+    margin: 0 0 1px;
+    cursor: pointer;
+    flex: 1 0 auto;
+    text-align: center
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-tabs .tab-bar .tab-title.active {
+    background: #f3f5f9;
+    color: #0560fc
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-tabs .tab-contents {
+    border: none;
+    padding: 16px;
+    border-radius: 5px;
+    margin-top: 10px
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-tabs .tab-contents .tab-content {
+    display: none
+}
+
+#helpjuice-widget #helpjuice-widget-article-content #article-content-body .f-tabs .tab-contents .tab-content.active {
+    display: block
+}
+
+#helpjuice-widget .add-answers,
+#helpjuice-widget .add-dt-tab,
+#helpjuice-widget .delete-dt-tab,
+#helpjuice-widget .delete-hj-dt-container,
+#helpjuice-widget .fa-trash-alt,
+#helpjuice-widget .start,
+#helpjuice-widget i.line-break {
+    display: none !important
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-content {
+    height: 500px;
+    padding: 20px;
+    overflow-y: auto
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-content:after {
+    content: "";
+    width: 100%;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    bottom: 60px;
+    background: linear-gradient(0deg, #fff, hsla(0, 0%, 100%, 0));
+    z-index: 9999
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article {
+    display: block;
+    text-decoration: none;
+    background: #fff;
+    text-align: left;
+    padding: 16px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 1px 0 rgba(66, 66, 66, .08), 0 1px 3px 1px rgba(66, 66, 66, .16);
+    cursor: pointer;
+    transition: .3s ease
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article:last-child {
+    margin: 0
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article:hover {
+    background: #f3f5f8
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article h3 {
+    font-size: 15px;
+    font-weight: 400;
+    color: #0560fc;
+    text-align: left;
+    margin: 0 0 15px;
+    pointer-events: none
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article p {
+    font-size: 13px;
+    font-weight: 400;
+    color: #424242;
+    pointer-events: none
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 16px;
+    pointer-events: none
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article .footer .reading-time {
+    font-size: 12px;
+    flex: 0 1 60px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #000;
+    opacity: .6
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article .footer .last-published {
+    font-size: 12px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: #000;
+    opacity: .6
+}
+
+#helpjuice-widget #helpjuice-widget-expanded .article .footer .reading-time svg {
+    margin: 0 5px 3px 0;
+    width: 14px
+}
+
+#helpjuice-widget #helpjuice-widget-expanded a.show-more {
+    display: block;
+    text-decoration: underline;
+    margin: 20px 0 30px;
+    transition: .3s ease;
+    color: #414141;
+    font-size: 14px;
+    text-align: center
+}
+
+#helpjuice-widget #helpjuice-widget-expanded a.show-more:active,
+#helpjuice-widget #helpjuice-widget-expanded a.show-more:focus,
+#helpjuice-widget #helpjuice-widget-expanded a.show-more:hover {
+    text-decoration: underline;
+    color: #2f2f2f
+}
+
+#helpjuice-widget #helpjuice-widget-expanded h4.title {
+    font-family: Helvetica, Arial, Lucida Grande, sans-serif !important;
+    font-size: 16px;
+    font-weight: 600;
+    color: #212121;
+    margin: 0 0 20px;
+    text-align: center
+}
+
+#helpjuice-widget #helpjuice-widget-expanded h4 svg {
+    width: 14px;
+    margin: 0 10px 0 0;
+    color: #949494
+}
+
+#helpjuice-widget-results-loader {
+    position: absolute;
+    top: 225px;
+    left: 155px;
+    z-index: 9999999;
+    display: none
+}
+
+#helpjuice-widget-results-loader.hj-shown {
+    display: block !important
+}
+
+.loader {
+    border-radius: 50%;
+    border: 8px solid #f3f3f3;
+    border-top-color: #0560fc;
+    width: 60px;
+    height: 60px;
+    animation: spin 2s linear infinite
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    to {
+        transform: rotate(1turn)
+    }
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact {
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: absolute;
+    width: 100%;
+    height: 59px;
+    bottom: 0;
+    z-index: 9999;
+    border-top: 1px solid #e3e5e9
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact a {
+    padding: 0;
+    text-decoration: none;
+    background: #fff;
+    color: #0560fc;
+    font-size: 14px;
+    font-weight: 400;
+    border: none
+}
+
+#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact a:hover {
+    text-decoration: underline
+}
+
+#helpjuice-widget .helpjuice-widget-skip-tutorial {
+    position: absolute;
+    left: calc(50% - 60px);
+    bottom: 59px;
+    z-index: 99999999;
+    width: 120px;
+    height: 30px;
+    color: #fff;
+    background: #0560fc;
+    border-radius: 3px 3px 0 0
+}
+
+#helpjuice-widget .helpjuice-widget-skip-tutorial:hover {
+    background: #0043cb
+}
