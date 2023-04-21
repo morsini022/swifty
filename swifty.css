@@ -1023,7 +1023,7 @@
     display: none;
 }
 
-#helpjuice-widget #helpjuice-widget-expanded #helpjuice-widget-contact {
+#helpjuice-widget #helpjuice-widget-expanded {
     display: flex;
     justify-content: space-between;
     align-items: center;
