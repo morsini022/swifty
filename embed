@@ -1,0 +1,15 @@
+<link rel="stylesheet" href="https://github.com/morsini022/swifty/blob/main/swifty.css">
+<script src="https://help.oit.co/swifty.js"></script>
+<script>
+  helpjuice_account_url = 'https://help.oit.co';
+  helpjuice_contact_us_url = 'https://help.oit.co/contact-us';
+  helpjuiceSwiftyConfig = {
+     widgetPosition: 'bottomRight',
+     themeColor: '#414042',
+     linkColor: '#E42E1B'
+  }
+  helpjuiceSwiftyUrlMap = {
+     'https://oit.co/swifty2': [1914928, 1914931, 1914936, 1914937, 1914938, 1914973],
+     'https://oit.co/swifty': [1914973, 1914988, 1914928, 1914931, 1912906]
+  }
+</script>
